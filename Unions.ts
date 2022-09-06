@@ -1,3 +1,5 @@
+// Union type and function parameter
+
 var val: string | number;
 val = 12;
 console.log("numeric value of val " + val);

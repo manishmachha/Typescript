@@ -1,3 +1,5 @@
+// Union type and Array
+
 var arr;
 var i;
 arr = [1, 2, 4];
